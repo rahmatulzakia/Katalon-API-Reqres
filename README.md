@@ -1,6 +1,6 @@
 # Katalon-API-Reqres
 Test automation API https://reqres.in/
-===> Branch Master
+
 
 Test case : 
 1. Login positive
@@ -10,3 +10,6 @@ Test case :
 5. Create user
 6. Update user
 7. Delete user
+
+
+NB : Code ada di branch Master
